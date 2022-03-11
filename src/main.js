@@ -5,9 +5,13 @@ import store from './store' // vuex配置
 import i18n from './locale' // 国际化配置
 import filters from './filters' // vue过滤器
 
-import ElementUI from 'element-ui';
-import 'element-ui/lib/theme-chalk/index.css';
-Vue.use(ElementUI);
+import { Button, Select, Option, InputNumber, Input, Slider } from 'element-ui';
+Vue.use(Button)
+Vue.use(Select)
+Vue.use(Option)
+Vue.use(InputNumber)
+Vue.use(Input)
+Vue.use(Slider)
 
 // 自定义的toast（这里仅做示例，需自己根据需求变动）
 import Toast from './components/toast/index'

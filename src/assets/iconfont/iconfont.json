@@ -1,0 +1,107 @@
+{
+  "id": "3236044",
+  "name": "sign",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6337460",
+      "name": "居中对齐",
+      "font_class": "juzhongduiqi",
+      "unicode": "ec80",
+      "unicode_decimal": 60544
+    },
+    {
+      "icon_id": "6337463",
+      "name": "右对齐",
+      "font_class": "youduiqi",
+      "unicode": "ec82",
+      "unicode_decimal": 60546
+    },
+    {
+      "icon_id": "6337466",
+      "name": "字体加粗",
+      "font_class": "zitijiacu",
+      "unicode": "ec83",
+      "unicode_decimal": 60547
+    },
+    {
+      "icon_id": "6337472",
+      "name": "字体颜色",
+      "font_class": "zitiyanse",
+      "unicode": "ec85",
+      "unicode_decimal": 60549
+    },
+    {
+      "icon_id": "6337473",
+      "name": "左对齐",
+      "font_class": "zuoduiqi",
+      "unicode": "ec86",
+      "unicode_decimal": 60550
+    },
+    {
+      "icon_id": "7192349",
+      "name": "T-倾斜",
+      "font_class": "T-qingxie",
+      "unicode": "e71e",
+      "unicode_decimal": 59166
+    },
+    {
+      "icon_id": "16199383",
+      "name": "下对齐bottom",
+      "font_class": "xiaduiqibottom",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "16199384",
+      "name": "上对齐top",
+      "font_class": "shangduiqitop",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "16199385",
+      "name": "居中对齐middle",
+      "font_class": "juzhongduiqimiddle",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "11134482",
+      "name": "多行文本",
+      "font_class": "duohangwenben",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "1338",
+      "name": "文本输入",
+      "font_class": "wenbenshuru",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "16480877",
+      "name": "签名",
+      "font_class": "qianming",
+      "unicode": "e69f",
+      "unicode_decimal": 59039
+    },
+    {
+      "icon_id": "17187055",
+      "name": "公章盖章",
+      "font_class": "gongzhanggaizhang",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "18170355",
+      "name": "日历,日期",
+      "font_class": "calendar-v2-full",
+      "unicode": "e9aa",
+      "unicode_decimal": 59818
+    }
+  ]
+}

@@ -1,6 +1,4 @@
-<p align="center"><img src="https://wangyupo.github.io/best-cli/_nuxt/img/708a1cb.png" alt="vue-vuex-router" width="100"/></p>
-<h2 align="center">vue-vuex-router</h2>
-<p align="center"><b>基于Vue CLI 3构建的项目初始化文件，master、mobile两个分支，pc端、mobile端开箱即用。</b></p>
+<h2 align="center">sign-contract-ui</h2>
 
 ## 文档内容
 
@@ -27,9 +25,6 @@
 ## 安装和使用
 
 ```
-初始化项目
-./init.sh
-
 安装插件
 yarn install
 
@@ -387,8 +382,6 @@ https://blog.csdn.net/qq_36407748/article/details/82050976
 
 ## 更多自定义配置
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-如果有任何问题，欢迎大家入群交流，群号：739637719
 
 ## License
 
